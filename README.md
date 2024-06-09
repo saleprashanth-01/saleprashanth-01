@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saleprashanth-01
 - 👀 I’m interested in cybersecutity
-- 🌱 I’m currently in postgraduation
+- 🌱 postgraduate
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me 9618316994
 
